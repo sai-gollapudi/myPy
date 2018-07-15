@@ -1,2 +1,2 @@
 # myPy
-developing a micro service using Python code
+I (Sai Gollapudi) am learning developing a micro service using Python code. Just experimenting.
